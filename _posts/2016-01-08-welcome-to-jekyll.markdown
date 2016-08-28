@@ -5,7 +5,7 @@ categories: [aboutme]
 tags: [aboutme]
 ---
 
-Cok yakinda yeni `site` ve `forum` sayfamizi yayina alacagiz.
+Cok yakinda yeni `site` ve `forum` sayfalarimizi yayina alacagiz.
 
 ``` ruby
 def print_hi(name)

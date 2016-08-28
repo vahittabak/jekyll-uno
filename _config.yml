@@ -1,17 +1,18 @@
 # Site settings
 title: Vahit Tabak
-description: 'LPIC-2, VCP-DCV, NCDA, SUSE CLA, ITIL'
-url: 'http://vahittabak.github.io'
+description: 'LPIC-2, SUSE CLA, VCP-DCV, NCDA, ITIL'
+url: 'http://'
+baseurl: '/vahittabak.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'vahittabak'
 
 author:
   name: 'Vahit Tabak'
   email: vahit@vahittabak.com
   twitter_username: vahittabak
   facebook_username: vahittabak
-  github_username:  vahittabak
-  linkedin_username:  vahittabak
+  github_username: vahittabak 
+  linkedin_username: vahittabak
 
 defaults:
   -
