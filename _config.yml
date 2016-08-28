@@ -1,8 +1,8 @@
 # Site settings
 title: Vahit Tabak
 description: 'LPIC-2, SUSE CLA, VCP-DCV, NCDA, ITIL'
-url: 'http://'
-baseurl: '/vahittabak.github.io/'
+url: 'http://vahittabak.github.io'
+baseurl: "/"
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'vahittabak'
 
@@ -13,6 +13,9 @@ author:
   facebook_username: vahittabak
   github_username: vahittabak 
   linkedin_username: vahittabak
+
+url-pretty: "www.vahittabak.com"
+timezone: "Europe/Istanbul"
 
 defaults:
   -
