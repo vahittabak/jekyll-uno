@@ -4,7 +4,7 @@ description: 'LPIC-2, SUSE CLA, VCP-DCV, NCDA, ITIL'
 url: 'http://vahittabak.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: 'vahittabak'
+#disqus_shortname: 'vahittabak'
 
 author:
   name: 'Vahit Tabak'
