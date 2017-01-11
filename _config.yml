@@ -14,7 +14,8 @@ author:
   github_username: vahittabak 
   linkedin_username: vahittabak
 
-
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-23921306-1"
 
 
 
