@@ -9,8 +9,8 @@ baseurl: '/'
 author:
   name: 'Vahit Tabak'
   email: vahit@vahittabak.com
-  twitter_username: vahittabak
-  facebook_username: vahittabak
+#  twitter_username: vahittabak
+#  facebook_username: vahittabak
   github_username: vahittabak 
   linkedin_username: vahittabak
 
