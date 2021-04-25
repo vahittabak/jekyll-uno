@@ -1,11 +1,11 @@
 ---
-title:  "Welcome to my blog!"
+title:  "Hi!"
 date:   2016-08-20 15:04:23
 categories: [aboutme]
 tags: [aboutme]
 ---
 
-Cok yakinda yeni `site` ve `forum` sayfalarimizi yayina alacagiz.
+Loading...
 
 ``` ruby
 def print_hi(name)
