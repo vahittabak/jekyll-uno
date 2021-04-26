@@ -1,7 +1,7 @@
 # Site settings
 title: Vahit Tabak
 description: 'sysadmin'
-url: 'http://vhtbk.github.io'
+url: 'https://vhtbk.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 #disqus_shortname: 'vahittabak'
